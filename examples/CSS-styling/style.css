@@ -1,0 +1,12 @@
+main {
+        background-color: blue;
+}
+
+label {
+        color: black;
+}
+
+button {
+        color: red;
+        button-color: yellow;
+}
